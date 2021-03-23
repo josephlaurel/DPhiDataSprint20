@@ -1,6 +1,6 @@
 # DPhi Data Sprint Notebooks
 <p align = 'justify'>
-  This repository contains my solutions to the [DPhi](http://dphi.tech) Data Sprints I have participated in since January 2021. I have consistently ranked in the upper 50% of competition participants and managed to place in the top 6.4% at peak performance. My solutions have involved the use of machine learning ensemble classifiers and transfer learning with convolutional neural networks.
+  This repository contains my solutions to the <a href='http://dphi.tech'> DPhi </a> Data Sprints I have participated in since January 2021. I have consistently ranked in the upper 50% of competition participants and managed to place in the top 6.4% at peak performance. My solutions have involved the use of machine learning ensemble classifiers and transfer learning with convolutional neural networks.
 
 ### [Data Sprint #27: Connect-4 Win Prediction](https://dphi.tech/challenges/data-sprint-27-connect-4/64/)
 <i> March 2021 </i> <br>
@@ -15,13 +15,13 @@
 • Ranked 3rd among 47 competition participants
 
 ### [Data Sprint #25: Flower Image Recognition using Deep Learning](https://dphi.tech/challenges/data-sprint-25-flower-recognition/61)
-<i> Mar 2021 </i> <br>
+<i> March 2021 </i> <br>
 • Performed transfer learning to classify 2,746 images of 5 flower varieties <br>
 • Achieved over 85% accuracy using the NasNetLarge convolutional neural network <br>
 • Placed in the top 9 among 28 competition participants
 
 ### [Data Sprint #24: Tinder Relationship Success Prediction using Machine Learning](https://dphi.tech/challenges/data-sprint-24-tinder-millennial-match/60/)
-<i> Feb 2021 </i> <br>
+<i> February 2021 </i> <br>
 • Used machine learning to analyze Tinder’s impact on relationship success based on data of 1,896 university students <br>
 • Achieved over 91.6% accuracy using a stacking algorithm composed of random forest, XGBoost, and SVM classifiers <br>
 • Ranked 12th among 50 competition participants
