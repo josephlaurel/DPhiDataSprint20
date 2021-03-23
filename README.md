@@ -1,6 +1,6 @@
 # DPhi Data Sprint Notebooks
 <p align = 'justify'>
-  This repository contains my solutions to the <a href='http://dphi.tech'> DPhi </a> Data Sprints I have participated in since January 2021. I have consistently ranked in the upper 50% of competition participants and managed to place in the top 6.4% at peak performance. My solutions have involved the use of machine learning ensemble classifiers and transfer learning with convolutional neural networks.
+  This repository contains my solutions to the <a href='http://dphi.tech'> DPhi </a> Data Sprints I have participated in since January 2021. On average, I have ranked in the top 31% of competition participants and managed to place in the top 6.4% at peak performance. My solutions have involved the use of machine learning ensemble classifiers and transfer learning with convolutional neural networks.
 
 ### [Data Sprint #27: Connect-4 Win Prediction](https://dphi.tech/challenges/data-sprint-27-connect-4/64/)
 <i> March 2021 </i> <br>
